@@ -1,0 +1,7 @@
+#https://www.kaggle.com/c/jigsaw-toxic-severity-rating/data  
+#
+jigsaw-rate-valid.ipynb -使用官方给定的验证文件comments_to_score.csv生成less columns预测值
+
+jigsaw-rate-valid-more.ipynb -使用官方给定的验证文件comments_to_score.csv生成more columns预测值
+
+jigsaw-validation.ipynb计算验证得分
